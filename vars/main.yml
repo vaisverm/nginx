@@ -6,7 +6,7 @@ env:
 redhat_pkg:
   - nginx
 
-ubuntu_pkg:
+ubuntu_pkg: 
   - python-selinux
   - nginx
 
