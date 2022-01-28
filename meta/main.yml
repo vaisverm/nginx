@@ -5,7 +5,7 @@ galaxy_info:
   license: BSD
   min_ansible_version: 1.4
   platforms:
-   - name: EL
+   - name: EL 
      versions:
       - 5
       - 6
